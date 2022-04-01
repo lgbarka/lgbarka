@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data learning & machine learning 
 - 💞️ I’m looking to collaborate on startup company
-- 📫 How to reach me https://www.linkedin.com/in/luthfi-g-barka-808392107/
+- 📫 How to reach me https://www.linkedin.com/in/lgbarka/
 
 <!---
 lgbarka/lgbarka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
