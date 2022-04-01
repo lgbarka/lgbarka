@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lgbarka
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data learning & machine learning 
+- 👀 I’m interested in data, digital, investing
+- 🌱 I’m currently learning data science & machine learning 
 - 💞️ I’m looking to collaborate on startup company
 - 📫 How to reach me https://www.linkedin.com/in/lgbarka/
 
